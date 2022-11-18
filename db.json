@@ -18,11 +18,13 @@
   "users": [
     {
       "id": 1,
-      "nickname": "admin"
+      "nickname": "admin",
+      "hash": "$2a$10$sVvYb/Gq7naokoz8dR/5HuY3ndtc9GzFusr1FsIkRMARL9oQH0A5K"
     },
     {
       "id": 2,
-      "nickname": "tester"
+      "nickname": "tester",
+      "hash": "$2a$10$IttvZLfghqeNjxmYnvwmHuvAtOjbmfeVRUulducwLbDwK0XIKb9Wu"
     }
   ]
 }
