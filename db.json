@@ -19,12 +19,12 @@
     {
       "id": 1,
       "nickname": "admin",
-      "hash": "$2a$10$sVvYb/Gq7naokoz8dR/5HuY3ndtc9GzFusr1FsIkRMARL9oQH0A5K"
+      "hash": "$2a$10$wEamA6kqj/v6g9cua4h/gubUOYXBLba6A0zjH0crbhztMoV4T6uCW"
     },
     {
       "id": 2,
       "nickname": "tester",
-      "hash": "$2a$10$IttvZLfghqeNjxmYnvwmHuvAtOjbmfeVRUulducwLbDwK0XIKb9Wu"
+      "hash": "$2a$10$wEamA6kqj/v6g9cua4h/gu1FPLiZ7osjw14KMjGRhPg9lzEhj8gSW"
     }
   ]
 }
